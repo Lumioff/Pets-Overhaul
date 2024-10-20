@@ -13,8 +13,7 @@ Mods: {
 			'''
 			[c/90C2AA:Последние изменения в Pets Overhaul 3.0: выпуск дополнения для Calamity, глобальные системные изменения, крупные исправления, множество изменений баланса]
 			[c/90C2AA:Некоторые из ваших настроек могли сброситься, обязательно проверьте их и настройте правильно!]
-			[c/90C2AA:Добавлена полная русская локализация! Автор: Teokai, Added fully up-to-date Brazillian Portuguese localization! By: Erstarisk]
-			[c/90C2AA:Improved Mod Icon, and added new Mod Trailer video & channel! All done by: Furqi]
+			[c/90C2AA:Добавлена полная русская локализация! Автор: Teokai]
 			[c/b4bfc5:Присоединяйтесь к нашему серверу Discord для отзывов и сообщений об ошибках! discord.gg/KubSpqvDGE]
 			[c/b4bfc5:Используйте] [c/ff8234:/pet] [c/b4bfc5:чтобы увидеть команды для Pets Overhaul и получить больше информации!]
 			'''
@@ -32,7 +31,7 @@ Mods: {
 			Magic: Магический
 			Summoner: Призывающий
 			Utility: Утилитарный
-			Mobility: Мобильный
+			Mobility: Подвижный
 			Harvesting: Собирательский
 			Mining: Шахтёрский
 			Fishing: Рыболовный
@@ -198,7 +197,6 @@ Mods: {
 			NotRolled: Качество определяется при первом добавлении предмета в инвентарь!
 			OutOf: из
 			Quality: Качество:
-			// Per: per quality
 			CreeperEgg:
 				'''
 				Даёт <sum> урона призыва за каждое качество, <melee> урона в ближнем бою за каждое качество
@@ -354,7 +352,7 @@ Mods: {
 				- Даёт <fp> силы рыбалки. Сила увеличивается в зависимости от текущего биома:
 				  * В океаническом биоме увеличивается до <oceanFp>.
 				  * В снежном биоме увеличивается до <snowFp>.
-				- Increases all vanilla Ice biome spesific fishing catches by <catchChance>%.
+				- Увеличивает количество пойманных Морозных гольянов [i:2306] и Атлантической трески [i:2299] на <catchChance>%.
 				- Даёт эффект Ласт [i:187], находясь в снежном или океаническом биоме.
 				- Умножает длительность дебаффа Переохлаждения на <chilledMult>.
 				'''
@@ -433,7 +431,7 @@ Mods: {
 				- Ваша текущая общая удача: <playerLuck>
 				'''
 			// BlackCatDeath1: <name> walked under a ladder.
-			// BlackCatDeath2: <name> now knows that: 'The Moon does not make its own light �moonlight� is actually reflected sunlight.
+			// BlackCatDeath2: <name> now knows that: 'The Moon does not make its own light  moonlight  is actually reflected sunlight.
 			// BlackCatDeath3: <name>'s superstitious beliefs turned out to be real.
 			// BlackCatDeath4: <name> was unlucky.
 			// BlackCatDeath5: <name>'s Black Cat did bring bad luck afterall.
